@@ -13,7 +13,7 @@ I'm a **Systems Design Engineering student** exploring my passion for integratin
 
 ## 🔭 Projects  
 - **Zoober**: Autonomous food delivery system for the Toronto Zoo, integrating ROS, REST APIs, and Azure for seamless operation.  
-- **Concordia App**: App for coordinating volunteers and services in the Dominican Republic, developed in collaboration with Develop For Good.  
+- **Concordia App**: App coordinating volunteers and services in the Dominican Republic with Develop For Good. 
 - **Signverse**: An ASL Translator that converts sign language gestures into text or speech using computer vision.  
 
 ---
