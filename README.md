@@ -4,7 +4,6 @@ I'm a **Systems Design Engineering student** exploring my passion for integratin
 ## 🌟 Current Work & Projects  
 - **Zoober**: Developing an autonomous food delivery system for the Toronto Zoo, integrating ROS, REST APIs, and Azure for seamless operation.  
 - **Concordia App**: Coordinating volunteers and services in the Dominican Republic with Develop For Good.  
-- **Signverse**: Building an ASL Translator to convert sign language gestures into text or speech using computer vision.  
 - **Personal Website**: Creating a platform to showcase my projects and blogs while enhancing my web development skills.  
 
 ## 💻 Skills & Tools  
