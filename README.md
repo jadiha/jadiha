@@ -22,13 +22,13 @@ I'm a **Systems Design Engineering student** exploring my passion for integratin
 ## 💻 Skills & Tools  
 
 ### **Languages**  
-C++/C, Python, Java, C#, Ruby, SQL, NoSQL, MySQL, JavaScript, HTML, CSS, Shell, Bash  
+Python, C++/C, Java, C#, JavaScript, HTML, CSS,  Ruby, SQL, Shell, Bash  
 
 ### **Frameworks & Tools**  
 React.JS, Bootstrap, CodeceptJS, Flutter  
 
 ### **Cloud & Development Tools**  
-Postman, Microsoft Azure, AWS, Terraform, Docker, MongoDB, MATLAB  
+Microsoft Azure, Amazon Web Services, Terraform, Docker, Postman API, MongoDB, MATLAB  
 
 ---
 
