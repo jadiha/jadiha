@@ -1,6 +1,5 @@
 # 👋 Hi there! I'm Jadiha Aruleswaran  
 
-Welcome to my GitHub!  
 I'm a **Systems Design Engineering student** exploring my passion for integrating tech and creating a positive impact on our world!  
 
 ---
