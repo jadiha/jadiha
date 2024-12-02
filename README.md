@@ -1,35 +1,16 @@
 # 👋 Hi there! I'm Jadiha Aruleswaran  
+I'm a **Systems Design Engineering student** exploring my passion for integrating tech and creating a positive impact on our world!
 
-I'm a **Systems Design Engineering student** exploring my passion for integrating tech and creating a positive impact on our world!  
-
----
-
-## 🌱 What I'm Working On  
-- Developing **robotics solutions** with integrated systems for real-world applications.  
-- Building a **personal website** to showcase my projects and write blogs.  
-- Leading **tech teams** on projects that drive social good and promote innovation.  
-
----
-
-## 🔭 Projects  
-- **Zoober**: Autonomous food delivery system for the Toronto Zoo, integrating ROS, REST APIs, and Azure for seamless operation.  
-- **Concordia App**: App coordinating volunteers and services in the Dominican Republic with Develop For Good. 
-- **Signverse**: An ASL Translator that converts sign language gestures into text or speech using computer vision.  
-
----
+## 🌟 Current Work & Projects  
+- **Zoober**: Developing an autonomous food delivery system for the Toronto Zoo, integrating ROS, REST APIs, and Azure for seamless operation.  
+- **Concordia App**: Coordinating volunteers and services in the Dominican Republic with Develop For Good.  
+- **Signverse**: Building an ASL Translator to convert sign language gestures into text or speech using computer vision.  
+- **Personal Website**: Creating a platform to showcase my projects and blogs while enhancing my web development skills.  
 
 ## 💻 Skills & Tools  
-
-### **Languages**  
-Python, C++/C, Java, C#, JavaScript, HTML, CSS,  Ruby, SQL, Shell, Bash  
-
-### **Frameworks & Tools**  
-Robot Operating System (ROS), REST API's, React.JS, CodeceptJS, Bootstrap, Flutter  
-
-### **Cloud & Development Tools**  
-Microsoft Azure, Amazon Web Services, Terraform, Docker, Postman API, MATLAB  
-
----
+**Languages:** Python, C++/C, Java, C#, JavaScript, HTML, CSS, Ruby, SQL, Shell, Bash  
+**Frameworks & Tools:** ROS, REST APIs, React.JS, CodeceptJS, Bootstrap, Flutter  
+**Cloud & Dev Tools:** Azure, AWS, Terraform, Docker, Postman API, MATLAB  
 
 Feel free to explore my repositories and connect with me to collaborate or learn more about my work! 🚀
 
