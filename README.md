@@ -24,10 +24,10 @@ I'm a **Systems Design Engineering student** exploring my passion for integratin
 Python, C++/C, Java, C#, JavaScript, HTML, CSS,  Ruby, SQL, Shell, Bash  
 
 ### **Frameworks & Tools**  
-React.JS, Bootstrap, CodeceptJS, Flutter  
+Robot Operating System (ROS), REST API's, React.JS, CodeceptJS, Bootstrap, Flutter  
 
 ### **Cloud & Development Tools**  
-Microsoft Azure, Amazon Web Services, Terraform, Docker, Postman API, MongoDB, MATLAB  
+Microsoft Azure, Amazon Web Services, Terraform, Docker, Postman API, MATLAB  
 
 ---
 
