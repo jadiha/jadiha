@@ -2,7 +2,7 @@
 I'm a **Systems Design Engineering student** exploring my passion for integrating tech and creating a positive impact on our world!
 
 ## 🌟 Current Work & Projects  
-- **Zoober**: Developing an autonomous food delivery system for the Toronto Zoo, integrating ROS, REST APIs, and Azure for seamless operation.  
+- **Zoober**: Developing an autonomous food delivery system for the Toronto Zoo, integrating ROS, REST APIs, and Azure.  
 - **Concordia App**: Coordinating volunteers and services in the Dominican Republic with Develop For Good.  
 - **Personal Website**: Creating a platform to showcase my projects and blogs while enhancing my web development skills.  
 
